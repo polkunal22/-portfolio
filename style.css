@@ -27,7 +27,7 @@ body {
   background-image:
     radial-gradient(ellipse at 8% 8%, #7557f614 0, transparent 32%),
     radial-gradient(ellipse at 92% 28%, #cbed6814 0, transparent 27%),
-    linear-gradient(180deg, #fbfaff 0%, var(--paper) 48%, #fbfaf7 100%);
+    linear-gradient(180deg, #8d81bc 0%, var(--paper) 48%, #fbfaf7 100%);
   background-attachment: fixed;
   color: var(--ink);
   font-family: var(--font-body);
@@ -119,7 +119,7 @@ h1 em,
 }
 
 .nav a:not(.nav-contact):hover {
-  background: #ece8ff;
+  background: #3b2d85;
   color: var(--purple);
 }
 
@@ -1286,7 +1286,7 @@ footer {
 
 .back-to-top:hover {
   border-color: #7557f6;
-  background: #7557f620;
+  background: #a1985600;
 }
 
 .back-to-top span {
